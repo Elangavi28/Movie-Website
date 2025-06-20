@@ -108,7 +108,7 @@ section{
 .container img{
     position: absolute;
     width: 100%;
-    height: 700px;
+    height: 100%;
     z-index: -1;
     object-position:center;
     object-fit:fill;
